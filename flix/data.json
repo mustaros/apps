@@ -1,7 +1,7 @@
 {
     "config" : [
         {
-            "tmdb_keys" : "98892a77b0cc1356d5872cf3cbbc5dd8,7543d31dcc422597e2f3f391acc6236f",
+            "tmdb_keys" : "98892a77b0cc1356d5872cf3cbbc5dd8",
             
             "int_interval" : 2,
             "activate_ads" : "false",
