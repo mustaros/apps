@@ -4,7 +4,7 @@
             "tmdb_keys" : "7543d31dcc422597e2f3f391acc6236f",
             
             "int_interval" : 2,
-            "activate_ads" : "false",
+            "activate_ads" : "true",
             "custom_banner" : "false",
             "one_signal" : "5ab1f734-9dfb-46a4-8019-37f59ba1233d",
             "network" : "fan",
@@ -29,9 +29,9 @@
             "max_native" : "",
             "max_int" : "",
 
-            "fan_ban": "IMG_16_9_APP_INSTALL#827753361612244_840990176955229",
-            "fan_native": "IMG_16_9_APP_INSTALL#827753361612244_840990353621878",
-            "fan_int": "IMG_16_9_APP_INSTALL#827753361612244_840990266955220",
+            "fan_ban": "1236226960311233_1258456481421614",
+            "fan_native": "1236226960311233_1258456578088271",
+            "fan_int": "1236226960311233_1258456524754943",
             
             "activate_update_app": "true",
             "update_link": "https://play.google.com/store/apps/details?id=com.megaflix.themegafilms"
