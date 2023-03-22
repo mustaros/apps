@@ -5,7 +5,7 @@
             
             "int_interval" : 2,
             "activate_ads" : "true",
-            "custom_banner" : "true",
+            "custom_banner" : "false",
             "one_signal" : "5ab1f734-9dfb-46a4-8019-37f59ba1233d",
             "network" : "admob",
 
