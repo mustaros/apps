@@ -37,7 +37,7 @@
             "fan_int": "",
             "fan_rewarded": "",
             
-            "activate_update_app": "true",
+            "activate_update_app": "false",
             "update_link": "https://play.google.com/store/apps/details?id=com.megaflix.themegafilms",
             "update_ico": ""
         }
