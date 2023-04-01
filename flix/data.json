@@ -4,7 +4,7 @@
             "tmdb_keys" : "7543d31dcc422597e2f3f391acc6236f,345246bad6792619d62d261f66c1385d,98892a77b0cc1356d5872cf3cbbc5dd8",
             
             "int_interval" : 4,
-            "activate_ads" : "false",
+            "activate_ads" : "true",
             "custom_banner" : "false",
             "one_signal" : "5ab1f734-9dfb-46a4-8019-37f59ba1233d",
             "network" : "admob",
